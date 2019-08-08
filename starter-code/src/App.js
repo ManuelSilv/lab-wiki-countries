@@ -1,7 +1,6 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import Nav from "./components/Nav.js";
+import CountryDetail from "./components/CountryDetail.js";
 
 import { BrowserRouter } from "react-router-dom";
 
